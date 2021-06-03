@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This most precious balsome is made in manner like a plaister for every ones conveniency, because they may carry it about with them wheresoever the please, and it is also made hard because if it were liquid, it would bee great inconvenience to carry it.  The remedies of the said balsome.</title>
+            <author>Nicols, Francis.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09601</idno><idno type="EEBO-CITATION">64551407</idno>
+  <idno type="VID">184672</idno>
+  <idno type="EEBO-PROQUEST">2240859645</idno>
+  
+            <idno type="STC">Wing N1142A</idno>
+            <idno type="STC">ESTC R224260</idno>
+            <idno type="OCLC">64551407</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09601)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184672)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This most precious balsome is made in manner like a plaister for every ones conveniency, because they may carry it about with them wheresoever the please, and it is also made hard because if it were liquid, it would bee great inconvenience to carry it.  The remedies of the said balsome.</title>
+                  <author>Nicols, Francis.</author>
+               </titleStmt>
+               <extent>1 sheet  ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Francis Nicols.</note>
+                  <note>"By license from the Parliament, and Lord Fairfax Generall."</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, Popular --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184672:1"/>
+            <head>¶ This most precious Balsome is made in manner like a Plaister for every ones conveniency, because they may carry it about with them wheresoever they please, and it is also made hard, because if it were liquid, it would bee great Inconvenience to carry it.</head>
+            <head type="sub">
+               <hi>The Remedies of the said Balsome.</hi>
+            </head>
+            <p n="1">1. <seg rend="decorInit">F</seg>Or a <hi>Scald-Head,</hi> let all the Haire be shaved off very well, as neere the skin as is possi<g ref="char:EOLhyphen"/>ble, afterwards let it be spread upon a peice of Linnen or thin skin and bee layd upon the Sore, leaving it for two dayes, afterwards change the Plaister three or foure times, observing that every time the Haire must be shaven away, and the putrifaction taken away, washing it well with a little water, wherein hath been boyled, <hi>Rosemary, Sage,</hi> and <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pporas</hi> together, or with <hi>Ʋrine, Vinegar,</hi> or <hi>Verjuyce,</hi> according to your discretion, and then it will be cured whole and sound without any paine; observing also that the Patient be well purged after hee is Cured, or else the Disease will come againe.</p>
+            <p n="2">2. It is good for all kinds of <hi>Impostumes</hi> which breed in the Throat, although they are rotten and corrupted, and if it be possible you may let downe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tent, because the corruption will be the sooner forced to come out, and it will heale the better, dressing it Morning and Evening, and hereof J have made experience on divers persons, who have such diseases fifteen or 20. yeares, and it is also good for any Imposthume or disease that commeth in the Head.</p>
+            <p n="3">3. It is excellent against the little <hi>Pimples</hi> which come in the Face, and for other <hi>Ʋlcers</hi> and <hi>Sores</hi> which come in the Nose, putting in a Tent of the said Balsome.</p>
+            <p n="4">4 For all sorts of Diseases which breed on the <hi>Lips.</hi>
+            </p>
+            <p n="5">5 For any <hi>Fall</hi> or <hi>Bruise</hi> in any part of the body applying the said Balsome.</p>
+            <p n="6">6 For all diseases of the <hi>Breast,</hi> which are corrupted and putrified, it takes away the griefe and heales.</p>
+            <p n="7">7 It is very good to purge <hi>Issues,</hi> and takes away the ill savour, and abates the carnosity, and takes away all inflamation.</p>
+            <p n="8">8 For the <hi>Fellons</hi> which breed on the fingers or hands, which are ripe, corrupted and cankred, dressing them evening and morning it will presently heale them.</p>
+            <p n="9">9 For all <hi>Wounds</hi> old and corrupted, caused by any meanes what<g ref="char:EOLhyphen"/>soever, they are presently healed with the said Balsome, washing them with Sacke, and drying them well afterwards.</p>
+            <p n="10">10 For all <hi>Venemous diseases</hi> which come on the body, as the <hi>Plague</hi> and the <hi>Carbuncle,</hi> you must presently scarifie them as deep as is possi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le according to the place where they are, or else with fire, which will be lesse pain and more speedy, and dresse them morning and evening.</p>
+            <p n="11">11 For all sorts of <hi>Vlcers</hi> which come upon the <hi>Privities,</hi> so soone as they are seen to come out, apply the aforesaid balsome, and it will cure them at two or 3. times. But if the Ulcers have gone from part to part, or have eaten a piece of the flesh, take Plantane-water and Rose-water and a little Coperas at your discretion, and wash it evening and morning, gently laying thereon the said Balsome, upon a fine piece of linnen, ob<g ref="char:EOLhyphen"/>serving that it is very necessary to purge for deep Ulcers.</p>
+            <p n="12">12 And it is also good for all <hi>Swellings</hi> which happen in the same part and in the Cods, with the scab or itch.</p>
+            <p n="13">13 And for all other diseases which grow in the <hi>Yard,</hi> as Inflama<g ref="char:EOLhyphen"/>tions or little Pimples, or any carnosity or other sores, take a thick Lute string, or a long thick cord, according as you please, which can goe into the bladder where the disease is, warming the said Balsome a little, and with the same anoint the said cord over, wetting the same with Plantane-water or Rose-water, because they may not cleave to the fingers putting it into the yard, because so it will draw forth all the putrifaction, and open the chanell through which the Urine passeth.</p>
+            <p n="14">14 There are two sorts of <hi>Impostumes</hi> which usually swell in the <hi>Groyne,</hi> one great without, and thick, and when it is very great, it must be cut, and afterwards, make a Tent dip't in the said Balsome, and dresse it therewith, keeping it open as much as is possible, because it may purge out the corruption.</p>
+            <p n="15">15 The other hath no corruption, but only a little water and it comes not forth, therefore for this use the said Balsome is to draw out the said poyson, but you must first purge well, otherwise you shall have the shedding of haires or the French-pox.</p>
+            <p n="16">16 For <hi>sore Legs,</hi> spread the said Balsome upon it, on very thin lea<g ref="char:EOLhyphen"/>ther or linnen, which will draw out all the corruption, putrifaction and paine, and will heale it. This Balsome hath cured divers very aged men, which otherwise should have had their legs cut off.</p>
+            <p n="17">17 For <hi>Kibe-heels,</hi> apply it to them upon thin leather, and it pre<g ref="char:EOLhyphen"/>sently takes away the paine, and cures them.</p>
+            <p n="18">18 For <hi>Womans diseases,</hi> and for <hi>Vlcers</hi> which come forth and may be seene and dressed, apply it in thin plaisters as <hi>in other diseases,</hi> and wash them after the same manner as abovesaid.</p>
+            <p>
+               <note place="margin">
+                  <p>I have a Pow<g ref="char:EOLhyphen"/>der to take a<g ref="char:EOLhyphen"/>way the pains of the Head.</p>
+                  <p>It is good for the Falling. sicknesse. And also very good for the paine in the Teeth.</p>
+                  <p>I have another sort of Powder to keepe the Teeth white &amp; from spoyling. I will help any Vlcer within the mouth.</p>
+                  <p>I have also an<g ref="char:EOLhyphen"/>other Water to take away the Morphew and Freckles in the face.</p>
+                  <p>I have likewise a Water very good for sore Eyes, that will preserve th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m cleane.</p>
+                  <p>I have a very rare th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng for to cure <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch or Scab.</p>
+                  <p>With divers other cures &amp;c.</p>
+               </note> For within the nature, take wax and put it to melt in a skillet, and afterwards put it in cold water, take a long ribbon according as you please, and of this wax make a long Tent in fashion of a thick candle, according to the largenesse of the nature which may touch the disease within, afterwards take this Balsome and melt it, and anoint the said Tent all over therewith, and when it is cold; put it in and bind it with a rowler, in such a manner that it cannot come out, and so you may go on horsebacke or in a Coach without any trouble, dressing it Evening and morning, washing and making the said Tent cleane, and laying on it the said Balsome as aforesaid, and in this manner all Ulcers, Inflama<g ref="char:EOLhyphen"/>tions, Itchings, and all sorts of diseases which are within are cured; and this J have written because honest women, rather then they will let it be seen, will dye in great misery, and thus may they have cure and heale themselves.</p>
+            <p n="19">19 It is very good for all sorts of <hi>bitings</hi> of venemous creatures.</p>
+            <p n="20">20 Also, when there is in the flesh, <hi>Glasse,</hi> or <hi>thornes,</hi> or <hi>yron,</hi> or <hi>Bullet,</hi> or any other things, apply it thereupon, and it will will draw it out, and take away the paine.</p>
+            <p n="21">21 For the <hi>Emorroids,</hi> take fresh butter, without salt, as much of Balsome or a little more, and beat them together in a cleane morter, and thereof make an oyntment, and apply it within or without where the disease is, and it will Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke the same effect wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Linseed oyle; or Rape oyle, dissolved together in forme of an oyntment, and this oynt<g ref="char:EOLhyphen"/>ment made with Linseed oyle, or Rape oyle is very good for shrunke sinewes.</p>
+            <p n="22">22 It is excellent for all sorts of <hi>Burnings</hi> or <hi>Scaldings,</hi> because it presently takes away the paine, and heales them.</p>
+            <p>And where there is no disease it causeth no alteration, though it lye a long time upon it.</p>
+            <p n="23">23 It is very good for <hi>Cornes,</hi> spreading the same upon leather, or some linnen cloath, leaving it two dayes and two nights thereon, and when you take it off, scrape the Corne, and in using the same three or 4 times, it will be well. And if any thing happen to the nailes by growing in the flesh, this Balsome will soften it that you may cut or pull it out at your pleasure, or any <hi>Vlcer</hi> or <hi>Gangrene</hi> whatsoever.</p>
+            <p n="24">24 Lastly, This precious, Balsome keepes good for ever, and is never putrified, and this is the reall truth, as appeares by many experi<g ref="char:EOLhyphen"/>ences made by nay selfe and others; and this J can justifie before God and man.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>By License from the <hi>PARLIAMENT,</hi> and Lord <hi>FAIRFAX</hi> Generall.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>For the Proofes hereof, are the chiefe Doctors of <hi>England,</hi> Doctor <hi>Mayearne,</hi> Doctor <hi>Lister,</hi> Doctor <hi>Beeton,</hi> Doctor <hi>Moore,</hi> Doct. <hi>Turner,</hi> Doct. <hi>Cadman,</hi> Doct. <hi>Williams,</hi> Doct. <hi>Loyd.</hi>
+            </p>
+            <p>The Professor hereof dwelleth on the back-side of <hi>Drury-lane</hi> in <hi>Stanhop-street,</hi> next doore to the golden <hi>Crosse-K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes,</hi> in <hi>Clare</hi>-street. You shall find him at home in the Morning before Nine of the clock, in the Afternoone at two or three.</p>
+            <closer>
+               <signed>FRANCIS NICOLS, an <hi>Jtalian.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
